@@ -56,13 +56,13 @@ imaging:
 # Language configuration
 languages:
   en:
-    languageName: English
+    label: English
     title: NOMM - Native Open Mod Manager
     params:
       description: A stylish and easy to use mod manager for Linux
   # cSpell:disable
   fr:
-    languageName: French
+    label: French
     contentDir: content/fr
     title: NOMM - Native Open Mod Manager
     params:
@@ -102,7 +102,7 @@ params:
     # set taxonomyPageHeader = [] to hide taxonomies on the page headers
     taxonomyPageHeader: [tags, categories]
 
-  privacy_policy: https://policies.google.com/privacy
+  privacy_policy: https://nomm.moe/privacy_policy
 
   # First one is picked as the Twitter card image if not set on page.
   # images: [images/project-illustration.png]
