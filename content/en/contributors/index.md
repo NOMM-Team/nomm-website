@@ -31,5 +31,10 @@ Hi, my name is Allexio and I'm the creator of the NOMM project. We have a [full 
   Stingflyer joined the project nearly from the start, and in providing feedback and testing games, he proved to be absolutely essential to keep motivations high among the team. He has added support for many games and helped shape the direction of the project in doing so.
   {{% /contributor %}}
 
+  {{% contributor name="Crasben" role="QA & Game Support" avatar="https://cdn.imgchest.com/files/530090c2321b.jpg" %}}
+  Crasben joined the project a bit later, and has provided support for many games, a multitude of bug reports, and some neat ideas on how to make NOMM better.
+  After Stingflyer and Smiling took a breather from the project, it felt refreshing and comforting to have someone else to count on who is genuinely interested in the project and its future.
+  {{% /contributor %}}
+
 </div>
 {{% /blocks/section %}}
