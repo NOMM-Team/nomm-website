@@ -28,7 +28,7 @@ params:
     {{% _param FA brands github "" %}}
   </a>
   <a {{% _param btn-lg primary button-green %}}
-    href="{{% param github_project_repo %}}/releases/latest/download/nomm.flatpak"
+    href="https://flathub.org/en/apps/moe.nomm.Nomm"
     target="_blank" rel="noopener noreferrer">
     Get the app
     <i class="fa fa-download"></i>
